@@ -42,3 +42,13 @@ nav ul li
 nav a:hover{
 	text-decoration: none;
 }	
+
+.day {
+	text-align:center;
+	display:inline-block;
+	margin:0.8%;
+}
+
+.day:hover {
+	text-decoration: none;
+}
